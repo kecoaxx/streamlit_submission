@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+matplotlib = ">=3.8.0"
+pandas = ">=2.1.4"
+numpy = ">=1.26.0"
+seaborn = ">=0.13.0"
+streamlit = ">=1.30.0"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"

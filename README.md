@@ -2,6 +2,11 @@
 
 by David Samuel Sitorus
 
+## Link to Streamlit App
+
+https://davidsbikeanalysis.streamlit.app
+
+
 ## Setup Environment - Anaconda
 ```
 conda create --name main-ds
